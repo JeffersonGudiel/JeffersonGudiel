@@ -88,7 +88,6 @@
 </p>
 
 ## 🏆GitHub Trophies
-
-![]<img height="180em" src="https://github-profile-trophy.vercel.app/?username=jeffersongudiel&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=jeffersongudiel&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 
 
