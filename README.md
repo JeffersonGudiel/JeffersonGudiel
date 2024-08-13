@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<img align="right" alt="Night Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right"/>
+<img align="right" alt="Night Coding" width="450" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
